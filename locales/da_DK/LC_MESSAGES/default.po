@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: knjPicturesConverter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-29 16:57+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Kasper Johansen <k@spernj.org>\n"
+"Language-Team: Kasper Johansen <k@spernj.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: ../../../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: glade\n"
+"X-Poedit-SearchPath-2: windows\n"
+
+#: glade/win_main.glade:6
+msgid "knjPicturesConverter"
+msgstr "knjPicturesConverter"
+
+#: glade/win_main.glade:35
+msgid "From dir"
+msgstr "Fra folder"
+
+#: glade/win_main.glade:46
+msgid "To dir"
+msgstr "Til folder"
+
+#: glade/win_main.glade:59
+msgid "Output format"
+msgstr "Output format"
+
+#: glade/win_main.glade:106
+msgid "Resize size"
+msgstr "Skallerings størrelse"
+
+#: glade/win_main.glade:120
+msgid "800"
+msgstr "800"
+
+#: glade/win_main.glade:134
+msgid "85"
+msgstr "85"
+
+#: glade/win_main.glade:147
+msgid "Quality"
+msgstr "Kvalitet"
+
+#: glade/win_main.glade:163
+msgid "<b>Enter details</b>"
+msgstr "<b>Indtast detaljer</b>"
+
+#: glade/win_main.glade:200
+msgid "gtk-ok"
+msgstr "Ok"
+
+#: glade/win_main.glade:215
+msgid "gtk-quit"
+msgstr "Afslut"
+
+#: glade/win_main.glade:235
+msgid "<b>Commands</b>"
+msgstr "<b>Kommandoer</b>"
+
